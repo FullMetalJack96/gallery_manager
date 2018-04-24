@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gallery.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\gallery.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\select.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\select.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\color_picker.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\color_picker.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\collage_camera.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\collage_camera.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_collage_photo_preview_select.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\menu_collage_photo_preview_select.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\camera.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\camera.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\collage.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\collage.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_photo.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\edit_photo.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_collage_gallery_select.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\menu_collage_gallery_select.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\letters.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\letters.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_collage_element_effect.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\menu_collage_element_effect.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_photo_preview.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\menu_photo_preview.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\collage_selector.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\collage_selector.xml"
+    },
+    {
+        "merged": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_camera_gallery_select.xml",
+        "source": "F:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\src\\main\\res\\menu\\menu_camera_gallery_select.xml"
+    }
+]

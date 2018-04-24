@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.theproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.theproject.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.theproject.CameraActivity"
+            android:label="@string/title_activity_camera"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.GalleryActivity"
+            android:label="@string/title_activity_gallery"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.SelectActivity"
+            android:label="@string/title_activity_select"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.CollageSelector"
+            android:label="@string/title_activity_collage_selector" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.CollageActivity"
+            android:label="@string/title_activity_collage" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.CollageCameraActivity"
+            android:label="@string/title_activity_collage_camera"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.EditPhotoActivity"
+            android:label="@string/title_activity_edit_photo"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.LettersActivity"
+            android:label="@string/title_activity_letters"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.ColorPicker"
+            android:label="@string/title_activity_color_picker" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.PhotoPreviewActivity"
+            android:label="@string/title_activity_photo_preview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.CameraGallerySelect"
+            android:label="@string/title_activity_camera_gallery_select"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.theproject.CollageElementEffect"
+            android:label="@string/title_activity_collage_element_effect" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_menu_zdjecie">Zdjęcie</string>
+    <string name="main_menu_galerie">Galerie</string>
+    <string name="main_menu_kolaz">Kolaż</string>
+    <string name="main_menu_siec">Zobacz w sieci</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="title_activity_collage_selector">CollageSelector</string>
+    <string name="title_activity_collage">CollageActivity</string>
+    <string name="title_activity_collage_camera">CollageCameraActivity</string>
+    <string name="title_activity_edit_photo">EditPhotoActivity</string>
+    <string name="title_activity_letters">LettersActivity</string>
+    <string name="title_activity_color_picker">ColorPicker</string>
+    <string name="title_activity_network">NetworkActivity</string>
+    <string name="title_activity_photo_preview">PhotoPreviewActivity</string>
+    <string name="title_activity_camera_gallery_select">CameraGallerySelect</string>
+    <string name="title_activity_collage_gallery_select">CollageGallerySelect</string>
+    <string name="title_activity_collage_photo_preview_select">CollagePhotoPreviewSelect</string>
+    <string name="title_activity_crop">CropActivity</string>
+    <string name="title_activity_collage_element_effect">CollageElementEffect</string>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="365153148782465"
+    token="6394814752891656099"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="414" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="41" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="363277161191172"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="364720379641119"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="365153148782465"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

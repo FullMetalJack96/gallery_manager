@@ -1,0 +1,7 @@
+#Mon Nov 28 15:24:00 GMT+01:00 2016
+base.0=F\:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_75c29e5493106d71380acb22aa0043389944efcf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_54de28001242b43d69ea9879124c7de7b2b03c58\\classes.dex
+base.1=F\:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_54de28001242b43d69ea9879124c7de7b2b03c58
+file.0=F\:\\Moje\\Projekty\\Programowanie\\Android\\Projekty\\THEPROJECT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_75c29e5493106d71380acb22aa0043389944efcf\\classes.dex

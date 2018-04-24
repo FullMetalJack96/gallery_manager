@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_e32534fe927a77145405f9eb782fbe571a658ffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1094977c209c6a690892ccd2f9f1aef33a4b4e33">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_54de28001242b43d69ea9879124c7de7b2b03c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_0831998b1fa67d648e71aeb6cab5508c589c19c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_ae3c7a02a8f74cacd274be45aca0957bb893dde2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\exploded-aar\com.edmodo\cropper\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="66467578c335f7a6babdbe01f7f0ac63230f578e">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.edmodo-cropper-1.0.1_3acdf3f45c93759db459eca60e3a46d9e8e227f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_b07cc8936bd1ff91ac512ba18292a6a48d888701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="643d2d58cce2eb576449202c059f674f1f79428e">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_75c29e5493106d71380acb22aa0043389944efcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jacek\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_7f8c3829e3a20753c1c7d1f0d9bc87f3c5874915\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Moje\Projekty\Programowanie\Android\Projekty\THEPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_4823c3fe39189a213fed01af65398c7d0bfa95a4\classes.dex" />
+    </item>
+
+</items>

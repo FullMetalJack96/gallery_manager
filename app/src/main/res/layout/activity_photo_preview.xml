@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.theproject.PhotoPreviewActivity"
+    android:id="@+id/rel"
+    android:background="#ff2d2d2d">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/organizer"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:background="#ff2d2d2d"
+        android:layout_alignParentBottom="true"
+        android:gravity="bottom"
+        android:baselineAligned="false">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/deleteButton1"
+            android:src="@drawable/delete"
+            android:clickable="true"
+            android:layout_weight="1"
+            android:contentDescription="back"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:padding="20dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/backButton1"
+            android:src="@drawable/backbutton"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:contentDescription="bacl"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:padding="20dp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView2"
+        android:layout_above="@+id/organizer">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/photoPreviewLinear"></LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
